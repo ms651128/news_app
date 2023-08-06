@@ -13,7 +13,7 @@ const userSchema = new Schema({
       title: String,
       description: String,
       url: String,
-      urlToImage: String,
+      image: String,
     }],
   });
 
